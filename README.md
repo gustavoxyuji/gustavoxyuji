@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-tsutumi-509993269/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoxyuji&hide_progress=true)
 
 ## Linguagens em estudo:
 
